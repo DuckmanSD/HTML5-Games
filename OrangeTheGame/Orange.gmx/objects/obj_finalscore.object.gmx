@@ -124,11 +124,11 @@ audio_stop_all();
           </argument>
           <argument>
             <kind>0</kind>
-            <string>95</string>
+            <string>260</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>50</string>
+            <string>200</string>
           </argument>
         </arguments>
       </action>
@@ -152,11 +152,11 @@ audio_stop_all();
           </argument>
           <argument>
             <kind>0</kind>
-            <string>260</string>
+            <string>480</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>50</string>
+            <string>200</string>
           </argument>
         </arguments>
       </action>
@@ -180,11 +180,11 @@ audio_stop_all();
           </argument>
           <argument>
             <kind>0</kind>
-            <string>100</string>
+            <string>260</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>250</string>
           </argument>
         </arguments>
       </action>
@@ -208,11 +208,11 @@ audio_stop_all();
           </argument>
           <argument>
             <kind>0</kind>
-            <string>260</string>
+            <string>480</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>250</string>
           </argument>
         </arguments>
       </action>

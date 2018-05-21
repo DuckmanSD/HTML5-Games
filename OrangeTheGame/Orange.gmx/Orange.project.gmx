@@ -35,8 +35,16 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\draw_text_highscore.gml</script>
+    <script>scripts\send_score.gml</script>
+    <script>scripts\get_scores.gml</script>
+    <script>scripts\string_split.gml</script>
+    <script>scripts\url_encode.gml</script>
+  </scripts>
   <fonts name="fonts">
     <font>fonts\font0</font>
+    <font>fonts\font2</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_enemy</object>
@@ -53,6 +61,15 @@
     <object>objects\obj_cover</object>
     <object>objects\obj_static</object>
     <object>objects\obj_explode</object>
+    <object>objects\kraymer</object>
+    <object>objects\genever</object>
+    <object>objects\piepshow</object>
+    <object>objects\musclecat</object>
+    <object>objects\dr42</object>
+    <object>objects\bubbletrouble</object>
+    <object>objects\jeremy</object>
+    <object>objects\duckman</object>
+    <object>objects\pilots</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Start_Menu</room>
